@@ -1,0 +1,20 @@
+.DS_Store
+.build/
+.swiftpm/
+.swiftpm-home/
+dist/
+
+# Xcode and Swift Package Manager user state
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+DerivedData/
+
+# Logs and local artifacts
+*.log
+*.dmg
+*.zip
+
+# Local editor state
+.idea/
+.vscode/
